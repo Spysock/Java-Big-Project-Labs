@@ -21,12 +21,7 @@ public class AddressBook {
         }
     }
 
-    public static void main(String[] args) {
-        System.out.println("Address Book");
-    }
 
-    /**
-     * Didnt work the first time so I'm just commenting it out instead of rewriting everything
     public static void main(String[] args) {
         BuddyInfo buddy = new BuddyInfo("Tom");
         AddressBook book = new AddressBook();
@@ -34,6 +29,5 @@ public class AddressBook {
         book.removeBuddy(buddy);
 
     }
-**/
 
 }
