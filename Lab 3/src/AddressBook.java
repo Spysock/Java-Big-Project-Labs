@@ -1,3 +1,4 @@
+//Some code to prove that I did this part of the lab!
 import java.util.ArrayList;
 public class AddressBook {
     private ArrayList<BuddyInfo> infoList;
