@@ -18,6 +18,10 @@ public class AddressBook {
         return null;
     }
 
+    public String newMethod(){
+        return "This is a new method.";
+    }
+
 
     public static void main(String[] args) {
         BuddyInfo buddy = new BuddyInfo("boy", "School", "512321");
